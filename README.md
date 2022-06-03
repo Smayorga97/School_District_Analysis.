@@ -58,5 +58,8 @@ after cleaning the data
 
 ## Summary
 
-1. Thomas high school dropped in the ranking of sta
+1. Thomas high school dropped in the ranking of students who have passed reading, this is important in the real world if the budget directed to the school is dependant of this metric. 
+2. there is Nan for grade 9th students from Thomas High school when it comes to math scores by grade
+3. The average math and reading scores changed between the two analysis, it is not stadistically significant but there is a change.
+4. the overall percentage passing grade for the distric changed, we could say that these numbers are more accurate when building a report
 
