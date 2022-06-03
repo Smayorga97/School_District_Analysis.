@@ -29,8 +29,11 @@ After Analyzing the data, it is shown that the average math score and the averag
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+When looking at the ranking of students percentage that passed reading, we see that Thomas Highschool dropped from the first place to the third place. when analyzing the same table, we can also see that its ranking regarding the number of students that passed math did not change.
 
 ### How does replacing the ninth-grade scores affect the following:
+
+no significant stadistical changes are detected on the analysis shown below.
 
 #### Math and reading scores by grade
 before cleaning the Data
@@ -54,4 +57,6 @@ after cleaning the data
 ![Results](resources/type2.png)
 
 ## Summary
+
+1. Thomas high school dropped in the ranking of sta
 
