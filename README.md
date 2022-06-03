@@ -10,7 +10,7 @@ The school board has notified Maria that the data shows evidence of academic dih
 
 * After cleaning the data
 
-![ResultsGraphic](resources/pycitychallenge_district_summary.png)
+![Results](resources/pycitychallenge_district_summary.png)
 
 ### How is the school summary affected?
 
