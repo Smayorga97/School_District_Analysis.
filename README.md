@@ -30,8 +30,9 @@ After Analyzing the data, it is shown that the average math score and the averag
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### How does replacing the ninth-grade scores affect the following:
-
+![Results](resources/math_scores1.png)
 #### Math and reading scores by grade
+![Results](resources/math_scores2.png)
 #### Scores by school spending
 #### Scores by school size
 #### Scores by school type
