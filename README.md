@@ -6,13 +6,26 @@ The school board has notified Maria that the data shows evidence of academic dih
 ### How is the district summary affected?
 * Before cleaning the data
 
+![ResultsGraphic](resources/pycityschools_district_summary.png)
+
+* After cleaning the data
+
+![Results](resources/challenge_district_summary1.png)
+
+After Analyzing the data, it is shown that the average math score and the average reading score change but not significantly, not enough to make a conclusions of academic dishonesty.
+
+
+### How is the school summary affected?
+* Before cleaning the data
+
 ![ResultsGraphic](resources/pycityschools_summary_affected.png)
 
 * After cleaning the data
 
 ![Results](resources/challenge_district_summary.png)
 
-### How is the school summary affected?
+After Analyzing the data, it is shown that the average math score and the average reading score change but not significantly, not enough to make a conclusions of academic dishonesty.
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
