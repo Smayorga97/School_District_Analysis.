@@ -15,3 +15,6 @@ The school board has notified Maria that the data shows evidence of academic dih
 #### Scores by school spending
 #### Scores by school size
 #### Scores by school type
+
+## Summary
+
